@@ -1,3 +1,6 @@
+# streamlit run crewai-stocks.py
+# https://my-stocks-ia.streamlit.app
+
 import json
 import os
 from datetime import datetime
